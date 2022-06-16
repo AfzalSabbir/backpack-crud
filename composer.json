@@ -1,5 +1,5 @@
 {
-    "name": "backpack/crud",
+    "name": "afzalsabbir/backpack-crud",
     "type": "library",
     "description": "Quickly build an admin interfaces using Laravel, CoreUI, Bootstrap and jQuery.",
     "keywords": [
